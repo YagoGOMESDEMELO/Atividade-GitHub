@@ -1,0 +1,19 @@
+header{
+    height: 100px;
+    background-color: rgb(241, 0, 0);
+}
+
+main{
+    height: 100px;
+    background-color: black;
+}
+
+footer{
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(4, 0, 255);
+    font-size: 24px;
+}
